@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# Debug Project
+FritzAPI_Debug/
